@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  laba 6.2 it.cpp
+C:\Users\ACER\source\repos\lab 6.2 it\laba 6.2 it\laba 6.2 it.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\ACER\source\repos\lab 6.2 it\x64\Debug\laba 6.2 it.lib and object C:\Users\ACER\source\repos\lab 6.2 it\x64\Debug\laba 6.2 it.exp
+  laba 6.2 it.vcxproj -> C:\Users\ACER\source\repos\lab 6.2 it\x64\Debug\laba 6.2 it.dll
